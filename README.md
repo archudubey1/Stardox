@@ -62,4 +62,5 @@ Example Usage : `python3 ./stardox.py
 Any and all contributions, issues, features and tips are welcome.
 
 ### License
+Archana
 **Stardox** is licence under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
